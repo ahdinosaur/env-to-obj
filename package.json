@@ -1,6 +1,6 @@
 {
   "name": "env-to-obj",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "parse process.env to a deeply nested camelCase object",
   "main": "index.js",
   "scripts": {
